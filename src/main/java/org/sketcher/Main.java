@@ -1,4 +1,4 @@
-package org.example;
+package org.sketcher;
 
 public class Main {
 

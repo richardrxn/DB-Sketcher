@@ -1,4 +1,4 @@
-package org.sketcher.DB_Sketcher;
+package org.dbsketcher.DB_Sketcher;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
